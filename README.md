@@ -1,2 +1,2 @@
 # Data-Analytics-Portfolio
-Portfolio: fraud detection, customer segmentation, BI, data governance
+Portfolio:Cost optimisation, customer segmentation, BI, data governance
