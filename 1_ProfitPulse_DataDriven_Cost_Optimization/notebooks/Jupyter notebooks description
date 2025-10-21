@@ -1,0 +1,8 @@
+## Jupyter Notebooks
+
+| Notebook | Description |
+|-----------|--------------|
+| [01_data_cleaning.ipynb](notebooks/01_data_cleaning.ipynb) | Data cleaning and feature preparation |
+| [02_eda_profit_analysis.ipynb](notebooks/02_eda_profit_analysis.ipynb) | Exploratory analysis and profit diagnostics |
+| [03_forecasting.ipynb](notebooks/03_forecasting.ipynb) | Demand forecasting using Prophet/ARIMA |
+| [04_dashboard_app.ipynb](notebooks/04_dashboard_app.ipynb) | Streamlit/Power BI dashboard integration |
