@@ -1,0 +1,2 @@
+state,district,conditions,predicted_aqi,personalized_aqi,phrs,prescription,temp_range_c,wind_range_ms,rainfall_status,model_used,generated_at
+tripura,dhalai,Elderly (65+),126.6,136.6,46,High risk: Reduce outdoor exertion. Masks recommended.,14.1 – 24.3,0.9 – 2.4,Rain expected,CNN-LSTM (TensorFlow),2025-11-05T20:18:40
